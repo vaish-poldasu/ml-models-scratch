@@ -11,7 +11,7 @@ This repository contains three machine learning projects completed as part of th
 1. [Food Delivery Time Prediction (Linear Regression)](#1-food-delivery-time-prediction-linear-regression)
 2. [KNN and ANN Search (CIFAR-10 CLIP Embeddings)](#2-knn-and-ann-search-cifar-10-clip-embeddings)
 3. [Cryptocurrency Fraud Detection (Decision Tree)](#3-cryptocurrency-fraud-detection-decision-tree)
-4. [SLIC Segmentation (K Means) ] (#4-slic-segmentation-kmeans)
+4. [SLIC Segmentation (K Means) ](#4-slic-segmentation-kmeans)
 ---
 
 ## 📖 Assignment Descriptions
