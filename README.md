@@ -1,6 +1,6 @@
 # ml-models-scratch
 
-# SMAI25 Machine Learning Assignments
+# SMAI25 Machine Learning Assignment
 
 This repository contains three machine learning projects completed as part of the **Smart Machines and Artificial Intelligence (SMAI)** coursework. Each project involves implementing and analyzing a different machine learning model on a real-world dataset.
 
